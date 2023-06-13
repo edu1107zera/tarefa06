@@ -1,0 +1,8 @@
+C:\Users\eduar\source\repos\tarefa06\tarefa06\bin\Debug\tarefa06.exe.config
+C:\Users\eduar\source\repos\tarefa06\tarefa06\bin\Debug\tarefa06.exe
+C:\Users\eduar\source\repos\tarefa06\tarefa06\bin\Debug\tarefa06.pdb
+C:\Users\eduar\source\repos\tarefa06\tarefa06\obj\Debug\tarefa06.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\tarefa06\tarefa06\obj\Debug\tarefa06.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\tarefa06\tarefa06\obj\Debug\tarefa06.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\tarefa06\tarefa06\obj\Debug\tarefa06.exe
+C:\Users\eduar\source\repos\tarefa06\tarefa06\obj\Debug\tarefa06.pdb
